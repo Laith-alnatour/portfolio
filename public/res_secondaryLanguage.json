@@ -1,48 +1,24 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Ursula Lopez. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "عربي",
+      "description": "👋  انا ليث الناطور مبرمج ويب ادرس في لومينوس 💜",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "عني",
+        "projects": "مشاريعي",
+        "skills": "مهاراتي",
+        "experience": "خبراتي"
       }
     },
     "projects": [
       {
         "title": "Horned Beasts",
         "startDate": "2022",
-        "description": "first React project.",
+        "description": "اول مشروع رياكت",
         "images": [
-          "public/images/portfolio/adventure/Horned Beasts.JPG",
-          "public/images/portfolio/adventure/Horned Beasts2.JPG"
+          "images/portfolio/adventure/Horned Beasts.JPG",
+          "images/portfolio/adventure/Horned Beasts2.JPG"
         ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Chocolate Pizza",
-        "startDate": "2022",
-        "description": "First CSS project :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
+        "url": "https://vermillion-tapioca-751116.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,61 +31,53 @@
         ]
       },
       {
-        "title": "PETRA restaurant",
-        "startDate": "2015",
-        "description": "My first project in JS",
+        "title": "Chocolate Pizza",
+        "startDate": "2022",
+        "description": "اول مشروع CSS:)",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/animal-shelter/PETRA restaurant.JPG",
+          "images/portfolio/animal-shelter/PETRA restaurant2.JPG"
         ],
-        "url": "https://github.com",
+        "url": "https://laith-alnatour.github.io/my-restaurant/index.html",
+        "technologies": [
+         
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "PETRA restaurant",
+        "startDate": "2022",
+        "description": "اول مشروع جافا سكريبت",
+        "images": [
+          "images/portfolio/photography/Chocolate Pizza.JPG",
+          "images/portfolio/photography/Chocolate Pizza2.JPG"
+        ],
+        "url": "https://laith-alnatour.github.io/Chocolate-Pizza/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
     ],
     "experience": [
+     
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "لومينوس",
+        "title": "تعلم الجافا سكريبت",
+        "years": "06.2022 - الان",
         "mainTech": [
-          "Angular 8/9/10"
+          "جافا سكريبت"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "جافا سكريبت",
+          "بوت ستراب",
+          "HTML",
+          "CSS"
         ]
       }
     ]
