@@ -68,13 +68,15 @@
     "experience": [
       {
         "company": "LTUC",
-        "title": "study JS",
+        "title": "Study JS",
         "years": "06.2022 - present",
         "mainTech": [
           "JavaScript"
         ],
         "technologies": [
           "JavaScript",
+          "HTML",
+          "CSS",
           "Bootstrap"
         
         ]
